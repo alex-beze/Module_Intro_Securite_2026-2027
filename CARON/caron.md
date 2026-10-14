@@ -1,7 +1,5 @@
 # Challenges réalisés
 
-Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
-
 | Nom du challenge | Date et heure de validation | Durée approximative estimée pour le réaliser | Difficulté ressentie |
 | :--- | :--- | :--- | :--- |
 | HTTP - Premiers pas | 14/10/2026 vers 13:57 | Environ 25 à 30 min | Simple : je connaissais déjà les bases |
