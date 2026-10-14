@@ -13,5 +13,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Headers | 14/10 14:58 | 15 min | TF |
 | HTTP - POST | 14/10 15:10 | 10 min | TF |
 | HTTP - Cookies | 14/10 15:14 | 3 min | TF |
+| HTTP - Directory indexing | 14/10 15:41 | 3 min | TF |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
