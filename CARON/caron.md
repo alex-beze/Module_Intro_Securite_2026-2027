@@ -8,3 +8,4 @@
 | HTTP - Headers | 14/10/2026 vers 15:17 | Environ 15 min | Simple : je connaissais déjà les bases |
 | HTTP - Cookies | 14/10/2026 vers 15:48 | Environ 10 à 15 min | Simple |
 | HTTP - Redirection | 14/10/2026 vers 16:08 | Environ 10 min | Simple |
+| HTTP - Be methodic | 14/10/2026 vers 16:15 | Environ 5 min | Simple |
