@@ -10,7 +10,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Headers | 14/10/2026 - 15h52 | 15 minutes | Facile |
 | HTTP - Redirection | 14/10/2026 - 16h20 | 25 minutes | Moyenne |
 | HTTP - Open redirect | 14/10/2026 - 16h40 | 17 minutes | Moyenne |
-|  |  |  |  |
+| HTTP - Be Methodic | 14/10/2026 - 16h55 | 5 minutes | Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
