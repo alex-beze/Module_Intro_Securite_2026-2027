@@ -10,3 +10,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |HTTP - Redirection| 16h20 | 50 min | moyen |
 |HTTP - Head cracker | 16h35 | 5 min | très facile|
 |HTTP - Be Methodic | 16h42 | 5 min | très facile|
+|HTTP - POST | 16h55 | 10 min | facile |
