@@ -6,4 +6,5 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | :--- | :--- | :--- | :--- |
 | HTTP - Premiers Pas | 14/10/2026 - 14h24 | 25 minutes | Moyenne (découverte de Burp) |
 | HTTP - Post | 14/10/2026 - 14h39 | 15 minutes | Facile | 
-| | | | |
+| HTTP - User-Agent | 14/10/2026 - 15h34 | 7 minutes | Facile |
+|  |  |  |  |
