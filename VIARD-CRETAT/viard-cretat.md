@@ -10,5 +10,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - User-agent | 14/10 13:50 | 5 min  | TF |
 | HTTP - Redirection | 14/10 14:23 | 25 min | F |
 | HTTP - Head cracker | 14/10 14:37 | 10 min | TF |
+| HTTP - Headers | 14/10 14:58 | 15 min | TF |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
