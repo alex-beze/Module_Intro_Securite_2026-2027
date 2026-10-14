@@ -7,3 +7,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | Decouverte Python 2 | 14h30 | 5 min | très facile |
 | HTTP - Premiers pas | 14h40 | 60 min | dure |
 |HTTP - User- Agent| 15h40 | 20 min | facile |
+|HTTP - Redirection| 16h20 | 50 min | moyen |
