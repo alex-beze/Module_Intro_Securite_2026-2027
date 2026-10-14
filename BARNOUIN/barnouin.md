@@ -11,7 +11,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Redirection | 14/10/2026 - 16h20 | 25 minutes | Moyenne |
 | HTTP - Open redirect | 14/10/2026 - 16h40 | 17 minutes | Moyenne |
 | HTTP - Be Methodic | 14/10/2026 - 16h55 | 5 minutes | Facile |
-|  |  |  |  |
+| HTTP - Cookies | 14/10/2026 - 16h58 | 30 secondes | Super Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
