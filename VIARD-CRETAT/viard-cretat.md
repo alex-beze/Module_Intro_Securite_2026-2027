@@ -15,6 +15,6 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Cookies | 14/10 15:14 | 3 min | TF |
 | HTTP - Directory indexing | 14/10 15:41 | 3 min | TF |
 | HTTP - Be methodic | 14/10 15:45 | 2 min | TF |
-|  |  |  |  |
+| HTTP - PentaRules | 14/10 16:18 | 25 min | F |
 |  |  |  |  |
 |  |  |  |  |
