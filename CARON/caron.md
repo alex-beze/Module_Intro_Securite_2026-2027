@@ -17,5 +17,6 @@
 | File Upload - Introduction | 14/10/2026 vers 20:06 | Environ 1 h | Difficile |
 | File Upload - Polyglot | 14/10/2026 vers 21:00 | Environ 1 h | Difficile |
 | File Upload - ZIP | 14/10/2026 en soirée | Environ 1 h | Difficile |
+| Hash - Wordlist | 15/10/2026 vers 14:10 | Environ 10 min | Simple |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
