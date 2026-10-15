@@ -21,5 +21,5 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | API - Information Disclosure | 15/10 12:46 | 10 min | F |
 | API - Broken Access - ID | 15/10 13:48 | 15 min | F |
 | API - Broken Access - Hash | 15/10 14:15 | 25 min | M |
-|  |  |  |  |
+| API - Mass Assignment | 15/10 14:44 | 25 min | F |
 |  |  |  |  |
