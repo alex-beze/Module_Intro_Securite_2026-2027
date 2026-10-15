@@ -19,8 +19,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | File Upload - Introduction | 15/10/2026 -14h52 | 35 minutes | Difficile (comprendre le principe de shell web) |
 | File Upload - Double extensions | 15/10/2026 - 15h15 | 7 minutes | Facile |
 | File Upload - Type MIME | 15/10/2026 - 15h25 | 3 minutes | Super Facile |
-|  |  |  |  |
-|  |  |  |  |
+| File Upload - Nul Byte | 15/10/2026 - 15h35 | 3 minutes | Super Facile |
+| API - Information Disclosure | 15/10/2026 - 16h30 | 15 minutes | Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
