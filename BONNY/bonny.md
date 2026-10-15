@@ -19,3 +19,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |HTTP - Penta Rules|10h40| 40 min| moyens|
 |API - API - Information Disclosure| 14h35| 40 min| moyens|
 |API - Broken Access - ID| 15h | 15 min | facile |
+|API - Broken Access - Hash| 15h30 | 20 min | moyens|
