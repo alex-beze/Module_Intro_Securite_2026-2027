@@ -18,3 +18,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Head Cracker | 15/10/2026 08h40 | 10 min |  |s
 | HTTP - Cookies | 15/10/2026 14h18 | 20 min |  |s
 | HTTP - Open redirect | 15/10/2026 15h40 | 20 min |  |s
+| HTTP - Directory Index | 15/10/2026 15h40 | 10 min |  |s
