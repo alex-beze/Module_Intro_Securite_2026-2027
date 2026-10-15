@@ -18,7 +18,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Penta Rules | 15/10/2026 - 14h14 | 15 minutes | Moyenne |
 | File Upload - Introduction | 15/10/2026 -14h52 | 35 minutes | Difficile (comprendre le principe de shell web) |
 | File Upload - Double extensions | 15/10/2026 - 15h15 | 7 minutes | Facile |
-|  |  |  |  |
+| File Upload - Type MIME | 15/10/2026 - 15h25 | 3 minutes | Super Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
