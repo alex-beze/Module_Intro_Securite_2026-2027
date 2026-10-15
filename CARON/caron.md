@@ -20,5 +20,6 @@
 | Hash - Wordlist | 15/10/2026 vers 14:10 | Environ 10 min | Simple |
 | Hash - Règles | 15/10/2026 vers 14:23 | Environ 15 min | Simple |
 | Hash - DCC | 15/10/2026 vers 14:31 | Environ 10 min | Simple |
+| Hash - DCC2 | 15/10/2026 vers 14:57 | Environ 25 min | Simple |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
