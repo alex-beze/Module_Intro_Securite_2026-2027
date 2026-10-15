@@ -10,5 +10,14 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Headers | 16h24 | 34 min | Medium |
 | HTTP - Cookies | 16h44 | 5 min | Easy |
 | HTTP - Redirection | 16h58 | 5 min | Easy |
+| HTTP - Open Redirect | 13h58 | 28 min | Medium |
+| HTTP - Directory Indexing | 14h04 | 6 min | Easy |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
