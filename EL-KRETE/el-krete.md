@@ -10,5 +10,6 @@ Graduations : dure > assez dure > assez simple > simple
 | HTTP - POST         | 14/10/2026 <br>17h15        | 10 min                                       | Assez simple         |
 | HTTP - User-agent   | 14/10/2026<br>19h00         | 15min                                        | Assez dure           |
 | HTTP - Headers      | 15/10/2026<br>9h30          | 15min                                        | Assez simple         |
+| HTTP - Cookies      | 15/10/2026<br>10h00         | 10min                                        | Simple               |
 |                     |                             |                                              |                      |
 
