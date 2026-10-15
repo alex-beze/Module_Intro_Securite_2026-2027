@@ -19,3 +19,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Cookies | 15/10/2026 14h18 | 20 min |  |s
 | HTTP - Open redirect | 15/10/2026 15h40 | 20 min |  |s
 | HTTP - Directory Index | 15/10/2026 15h40 | 10 min |  |s
+| HTTP - Restriction IP | 15/10/2026 16h20 | 10 min | Manque de connaissances sur les en-têtes HTTP |s
