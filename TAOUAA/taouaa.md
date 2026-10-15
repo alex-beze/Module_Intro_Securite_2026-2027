@@ -7,3 +7,5 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - User-agent | 14/10/2026 16h13 | 30 min |
 |HTTP - Headers |  15/10/2026 14:05 | 20 min |
 |HTTP - Directory indexing| 15/10/2026 14:54 |  25 min| 
+| HTTP - Redirection |15/10/2026 15:46 | 15 min |
+
