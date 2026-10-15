@@ -20,3 +20,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |API - Information Disclosure|12h20| 60 min| dure|
 |API - Broken Access - ID|13h30| 30 min| moyens|
 |API - Broken Access - Hash|14h| 60 min| dure |
+|API - Mass Assignment|14h| 60 min| dure |
