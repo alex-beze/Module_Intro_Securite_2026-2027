@@ -13,5 +13,6 @@ Graduations : dure > assez dure > assez simple > simple
 | HTTP - Cookies            | 15/10/2026<br>10h00         | 10min                                        | Simple               |
 | HTTP - Redirection        | 15/10/2026<br>10h45         | 25min                                        | Assez dure           |
 | HTTP - Open-redirect      | 15/10/2026<br>13h50         | 20min                                        | Assez dure           |
-| HTTP - Directory indexing | 15/10/2026                  | 15min                                        | Assez simple         |
+| HTTP - Directory indexing | 15/10/2026<br>14h20         | 15min                                        | Assez simple         |
+| HTTP - Be methodic        | 15/10/2026<br>14h40         | 5min                                         | Simple               |
 
