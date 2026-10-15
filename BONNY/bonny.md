@@ -12,3 +12,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |HTTP - Be Methodic | 16h42 | 5 min | très facile|
 |HTTP - POST | 16h55 | 10 min | facile |
 |HTTP - Header | 17h18 | 15 min | moyens |
+|HTTP - Cookies | 8h35 | 5 min | très facile |
+|HTTP - Open Redirect | 9h02 | 15 min | facile |
+|HTTP - HTTP_Directory_indexing | 9h15 | 10 min | facile |
+|HTTP - Restriction_IP| 9h40 | 20 min | moyens |

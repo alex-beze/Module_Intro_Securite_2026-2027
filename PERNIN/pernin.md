@@ -25,3 +25,10 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | Découverte - Capture 1 | 02/10/2026 16:18 | 1 min | 0/10 |
 | Découverte - Capture 2 | 02/10/2026 16:29 | 10 min | 1/10 |
 | Découverte - Capture 3 | 02/10/2026 16:32 | 1 min | 0/10 |
+| API - Broken Access - ID | 14/10/2026 14:29 | 10 min | 2/10 |
+| API - Information Disclosure | 14/10/2026 15:46 | 1 h | 3/10 |
+| HTTP - Premiers pas | 14/10/2026 16:09 | 30 min | 2/10 |
+| HTTP - User-agent | 14/10/2026 16:18 | 5 min | 1/10 |
+| HTTP - POST | 14/10/2026 16:26 | 5 min | 1/10 |
+| HTTP - Headers | 14/10/2026 16:44 | 10 min | 2/10 |
+| HTTP - Cookies | 14/10/2026 16:49 | 1 min | 0/10 |
