@@ -13,3 +13,4 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | Découverte - Capture 3 | 14/10/2026 15h35 | 5 min |  |
 | HTTP - User-Agent | 14/10/2026 17h00 | 30 min | Manque de connaissances sur les en-têtes HTTP |
 | HTTP - Headers | 14/10/2026 17h12 | 12 min | Manque de connaissances sur les en-têtes HTTP |
+| HTTP - Be methodic | 15/10/2026 08h13 | 3 min |  |
