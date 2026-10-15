@@ -17,3 +17,5 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |HTTP - HTTP_Directory_indexing | 9h15 | 10 min | facile |
 |HTTP - Restriction_IP| 9h40 | 20 min | moyens |
 |HTTP - Penta Rules|10h40| 40 min| moyens|
+|API - Information Disclosure|12h20| 60 min| moyens|
+|API - Broken Access - ID|13h30| 30 min| moyens|
