@@ -16,8 +16,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - Head Cracker | 14/10/2026 - 17h13 | 20 secondes | Super Facile |
 | HTTP - IP Restriction | 15/10/2026 - 13h51 | 15 minutes | Moyenne |
 | HTTP - Penta Rules | 15/10/2026 - 14h14 | 15 minutes | Moyenne |
-| File Upload - Introduction | 15/10/2026 -14h52 | 35 | Difficile (comprendre le principe de shell web) |
-|  |  |  |  |
+| File Upload - Introduction | 15/10/2026 -14h52 | 35 minutes | Difficile (comprendre le principe de shell web) |
+| File Upload - Double extensions | 15/10/2026 - 15h15 | 7 minutes | Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
