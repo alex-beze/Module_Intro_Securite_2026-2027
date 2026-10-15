@@ -11,3 +11,6 @@
 | HTTP - Be methodic | 14/10/2026 vers 16:15 | Environ 5 min | Simple |
 | HTTP - Directory indexing | 14/10/2026 vers 16:29 | Environ 10 min | Simple |
 | HTTP - Open-redirect | 14/10/2026 vers 16:57 | Environ 25 min | Moyenne |
+| HTTP - Head cracker | 14/10/2026 vers 18:10 | Environ 10 min | Simple |
+
+Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
