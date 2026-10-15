@@ -17,7 +17,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - IP Restriction | 14h57 | 20 min | Medium |
 | HTTP - Pentarules | 15h26 | 45 min | Hard |
 | File Upload - Introduction | 16h11 | 50 min | Hard |
-|  |  |  |  |
+| File Upload - Type Mime | 16h30 | 20 min | Medium |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
