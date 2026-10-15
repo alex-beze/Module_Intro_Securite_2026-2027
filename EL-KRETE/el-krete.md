@@ -16,4 +16,6 @@ Graduations : dure > assez dure > assez simple > simple
 | HTTP - Directory indexing | 15/10/2026<br>14h20         | 15min                                        | Assez simple         |
 | HTTP - Be methodic        | 15/10/2026<br>14h40         | 5min                                         | Simple               |
 | HTTP - Head cracker       | 15/10/2026<br>14h50         | 2min                                         | Très simple          |
+| HTTP - Restriction IP     | 15/10/2026<br>15h15         | 10min                                        | Assez Simple         |
+|                           |                             |                                              |                      |
 
