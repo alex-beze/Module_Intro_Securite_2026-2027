@@ -22,7 +22,7 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | File Upload - Nul Byte | 15/10/2026 - 15h35 | 3 minutes | Super Facile |
 | API - Information Disclosure | 15/10/2026 - 16h30 | 15 minutes | Facile |
 | API - Broken Access - ID | 15/10/2026 - 16h45 | 5 minutes | Facile |
-|  |  |  |  |
+| API - Broken Access - Hash | 15/10/2026 - 16h55 | 5 minutes | Facile |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
