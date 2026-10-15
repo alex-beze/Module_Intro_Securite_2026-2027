@@ -18,3 +18,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - PentaRules | 14/10 16:18 | 25 min | F |
 | HTTP - Restriction IP | 14/10 16:30 | 10 min | F |
 | HTTP - Open-redirect | 14/10 17:05 | 30 min | F |
+| API - Information Disclosure | 15/10 12:46 | 10 min | F |
+| API - Broken Access - ID | 15/10 13:48 | 15 min | F |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
