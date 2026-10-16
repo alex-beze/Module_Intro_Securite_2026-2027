@@ -32,3 +32,6 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | HTTP - POST | 14/10/2026 16:26 | 5 min | 1/10 |
 | HTTP - Headers | 14/10/2026 16:44 | 10 min | 2/10 |
 | HTTP - Cookies | 14/10/2026 16:49 | 1 min | 0/10 |
+| Hash - MD5 | 15/10/2026 15:08 | 1 h 30 min | 3/10 |
+| Hash - Wordlist | 15/10/2026 15:33 | 15 min | 1/10 |
+| Hash - Règles | 15/10/2026 15:52 | 15 min | 2/10 |
