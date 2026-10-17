@@ -19,4 +19,5 @@ Graduations : dure > assez dure > assez simple > simple
 | HTTP - Restriction IP        | 15/10/2026<br>15h15         | 10min                                        | Assez Simple         |
 | HTTP - PentaRules            | 15/10/2026<br>15h45         | 25min                                        | Assez simple         |
 | API - Information Disclosure | 15/10/2026<br>16h30         | 30min                                        | Assez simple         |
+| API - Broken Access - ID     | 15/10/2026<br>17h00         | 15min                                        | Assez simple         |
 
