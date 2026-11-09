@@ -29,5 +29,6 @@
 | File Upload - Null bytes | 15/10/2026 vers 17:03 | Environ 5 min | Facile, même méthode |
 | FTP - Authentification | 09/11/2026 vers 10:38 | Quelques secondes | Très facile (0) |
 | TELNET - authentification | 09/11/2026 (heure non notée) | Non notée | Très facile |
+| ETHERNET - trame | 09/11/2026 (heure non notée) | Quelques secondes | Très facile |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
