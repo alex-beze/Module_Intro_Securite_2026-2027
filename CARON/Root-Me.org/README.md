@@ -21,8 +21,8 @@
 
 | Domaine | Ce que l'on y trouve | Dossier |
 | :--- | :--- | :--- |
-| 🌐 **Réseau** | Analyse de captures, protocoles et configuration réseau | [Ouvrir Network](Network/) |
-| 🧩 **Web Server** | Requêtes HTTP, fichiers exposés et injection de commande | [Ouvrir Web Server](Web%20Server/) |
+| 🌐 **Réseau** | Analyse de captures, protocoles et configuration réseau | [Ouvrir Network](https://github.com/alex-beze/Module_Intro_Securite_2026-2027/tree/main/CARON/Root-Me.org/Network) |
+| 🧩 **Web Server** | Requêtes HTTP, fichiers exposés et injection de commande | [Ouvrir Web Server](https://github.com/alex-beze/Module_Intro_Securite_2026-2027/tree/main/CARON/Root-Me.org/Web%20Server) |
 
 ```mermaid
 flowchart LR
