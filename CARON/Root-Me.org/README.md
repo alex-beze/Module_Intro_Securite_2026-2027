@@ -2,6 +2,14 @@
   <img src="assets/network-web-banner.png" alt="Illustration d'un réseau et d'une application web" width="100%">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/root-me-mark-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/root-me-mark-black.svg">
+    <img src="assets/root-me-mark-black.svg" alt="Logo Root-Me" width="80">
+  </picture>
+</p>
+
 <h1 align="center">Root-Me.org</h1>
 
 <p align="center">
@@ -41,12 +49,12 @@ flowchart LR
 
 | Challenge | Archive |
 | :--- | :--- |
-| CISCO | [Télécharger](Network/CARON_WU_CISCO.zip) |
-| ETHERNET - trame | [Télécharger](Network/CARON_WU_ETHERNET_TRAME.zip) |
-| FTP - Authentification | [Télécharger](Network/CARON_WU_FTP_AUTHENTIFICATION.zip) |
-| IP - Time To Live | [Télécharger](Network/CARON_WU_IP_TIME_TO_LIVE.zip) |
-| RIPv1 - no authentication | [Télécharger](Network/CARON_WU_RIPV1_NO_AUTHENTICATION.zip) |
-| TELNET - authentification | [Télécharger](Network/CARON_WU_TELNET_AUTHENTIFICATION.zip) |
+| [CISCO](https://www.root-me.org/fr/Challenges/Reseau/CISCO-mot-de-passe) | [Télécharger](Network/CARON_WU_CISCO.zip) |
+| [ETHERNET - trame](https://www.root-me.org/fr/Challenges/Reseau/ETHERNET-trame) | [Télécharger](Network/CARON_WU_ETHERNET_TRAME.zip) |
+| [FTP - Authentification](https://www.root-me.org/fr/Challenges/Reseau/FTP-Authentification) | [Télécharger](Network/CARON_WU_FTP_AUTHENTIFICATION.zip) |
+| [IP - Time To Live](https://www.root-me.org/fr/Challenges/Reseau/IP-Time-To-Live) | [Télécharger](Network/CARON_WU_IP_TIME_TO_LIVE.zip) |
+| [RIPv1 - no authentication](https://www.root-me.org/fr/Challenges/Reseau/RIPv1-no-authentication) | [Télécharger](Network/CARON_WU_RIPV1_NO_AUTHENTICATION.zip) |
+| [TELNET - authentification](https://www.root-me.org/fr/Challenges/Reseau/TELNET-authentification) | [Télécharger](Network/CARON_WU_TELNET_AUTHENTIFICATION.zip) |
 
 </details>
 
@@ -55,11 +63,11 @@ flowchart LR
 
 | Challenge | Archive |
 | :--- | :--- |
-| Fichier de sauvegarde | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_FICHIER_DE_SAUVEGARDE.zip) |
-| HTTP - Directory indexing | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_DIRECTORY_INDEXING.zip) |
-| HTTP - Headers | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_HEADERS.zip) |
-| HTTP - POST | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_POST.zip) |
-| PHP - Injection de commande | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_PHP_INJECTION_DE_COMMANDE.zip) |
+| [Fichier de sauvegarde](https://www.root-me.org/fr/Challenges/Web-Serveur/Fichier-de-sauvegarde) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_FICHIER_DE_SAUVEGARDE.zip) |
+| [HTTP - Directory indexing](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_DIRECTORY_INDEXING.zip) |
+| [HTTP - Headers](https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_HEADERS.zip) |
+| [HTTP - POST](https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_POST.zip) |
+| [PHP - Injection de commande](https://www.root-me.org/fr/Challenges/Web-Serveur/Injection-de-commande) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_PHP_INJECTION_DE_COMMANDE.zip) |
 
 </details>
 
