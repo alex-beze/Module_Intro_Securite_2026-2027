@@ -24,6 +24,9 @@
 | Hash - NTLMv1 - Custom | 15/10/2026 vers 15:05 | Environ 10 min | Simple |
 | Hash - NT | 15/10/2026 vers 15:12 | Environ 10 min | Simple |
 | Hash - NTLMv2 - Custom | 15/10/2026 vers 15:35 | Environ 25 min | Simple |
+| Hash - LM | Non notée | Non notée | Non notée |
+| Hash - NTLMv1 | Non notée | Non notée | Non notée |
+| Hash - NTLMv2 | Non notée | Non notée | Non notée |
 | File Upload - Double extensions | 15/10/2026 vers 16:46 | Environ 20 min | Facile, même méthode |
 | File Upload - Type MIME | 15/10/2026 vers 16:58 | Environ 5 min | Facile, même méthode |
 | File Upload - Null bytes | 15/10/2026 vers 17:03 | Environ 5 min | Facile, même méthode |
