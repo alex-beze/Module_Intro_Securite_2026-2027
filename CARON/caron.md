@@ -1,5 +1,7 @@
 # Challenges réalisés
 
+## Root-Me PRO
+
 | Nom du challenge | Date et heure de validation | Durée approximative estimée pour le réaliser | Difficulté ressentie |
 | :--- | :--- | :--- | :--- |
 | HTTP - Premiers pas | 14/10/2026 vers 13:57 | Environ 25 à 30 min | Simple : je connaissais déjà les bases |
@@ -30,16 +32,21 @@
 | File Upload - Double extensions | 15/10/2026 vers 16:46 | Environ 20 min | Facile, même méthode |
 | File Upload - Type MIME | 15/10/2026 vers 16:58 | Environ 5 min | Facile, même méthode |
 | File Upload - Null bytes | 15/10/2026 vers 17:03 | Environ 5 min | Facile, même méthode |
-| FTP - Authentification | 09/11/2026 vers 10:38 | Quelques secondes | Très facile (0) |
-| TELNET - authentification | 09/11/2026 (heure non notée) | Non notée | Très facile |
-| ETHERNET - trame | 09/11/2026 (heure non notée) | Quelques secondes | Très facile |
-| CISCO (Root-Me.org) | Non notée | Environ 10 à 15 min | Non notée |
-| IP - Time To Live (Root-Me.org) | Non notée | Environ 50 min | Élevée |
-| RIPv1 - no authentication (Root-Me.org) | Non notée | Non notée | Non notée |
-| Fichier de sauvegarde (Root-Me.org) | Non notée | Non notée | Non notée |
-| HTTP - Directory indexing (Root-Me.org) | Non notée | Non notée | Non notée |
-| HTTP - Headers (Root-Me.org) | Non notée | Non notée | Non notée |
-| HTTP - POST (Root-Me.org) | Non notée | Non notée | Non notée |
-| PHP - Injection de commande (Root-Me.org) | Non notée | Non notée | Facile |
+
+## Root-Me.org
+
+| Nom du challenge | Date et heure de validation | Durée approximative estimée pour le réaliser | Difficulté ressentie |
+| :--- | :--- | :--- | :--- |
+| FTP - Authentification | 09/11/2026 vers 10:38 | Quelques secondes | Facile |
+| TELNET - authentification | 09/11/2026 (heure non notée) | Non notée | Facile |
+| ETHERNET - trame | 09/11/2026 (heure non notée) | Quelques secondes | Facile |
+| CISCO | Non notée | Environ 10 à 15 min | Facile |
+| IP - Time To Live | Non notée | Environ 50 min | Facile |
+| RIPv1 - no authentication | Non notée | Non notée | Facile |
+| Fichier de sauvegarde | Non notée | Non notée | Facile |
+| HTTP - Directory indexing | Non notée | Non notée | Facile |
+| HTTP - Headers | Non notée | Non notée | Facile |
+| HTTP - POST | Non notée | Non notée | Facile |
+| PHP - Injection de commande | Non notée | Non notée | Facile |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
