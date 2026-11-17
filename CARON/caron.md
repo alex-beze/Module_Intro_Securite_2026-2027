@@ -33,5 +33,8 @@
 | FTP - Authentification | 09/11/2026 vers 10:38 | Quelques secondes | Très facile (0) |
 | TELNET - authentification | 09/11/2026 (heure non notée) | Non notée | Très facile |
 | ETHERNET - trame | 09/11/2026 (heure non notée) | Quelques secondes | Très facile |
+| CISCO (Root-Me.org) | Non notée | Environ 10 à 15 min | Non notée |
+| IP - Time To Live (Root-Me.org) | Non notée | Environ 50 min | Élevée |
+| RIPv1 - no authentication (Root-Me.org) | Non notée | Non notée | Non notée |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
