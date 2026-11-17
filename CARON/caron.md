@@ -36,5 +36,10 @@
 | CISCO (Root-Me.org) | Non notée | Environ 10 à 15 min | Non notée |
 | IP - Time To Live (Root-Me.org) | Non notée | Environ 50 min | Élevée |
 | RIPv1 - no authentication (Root-Me.org) | Non notée | Non notée | Non notée |
+| Fichier de sauvegarde (Root-Me.org) | Non notée | Non notée | Non notée |
+| HTTP - Directory indexing (Root-Me.org) | Non notée | Non notée | Non notée |
+| HTTP - Headers (Root-Me.org) | Non notée | Non notée | Non notée |
+| HTTP - POST (Root-Me.org) | Non notée | Non notée | Non notée |
+| PHP - Injection de commande (Root-Me.org) | Non notée | Non notée | Facile |
 
 Horaires et durées approximatifs (certaines étapes faites à la maison). Les difficultés non précisées dans les notes sont estimées.
