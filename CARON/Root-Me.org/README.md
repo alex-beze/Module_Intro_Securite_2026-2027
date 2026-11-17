@@ -25,51 +25,79 @@
 
 ---
 
-## Explorer
+## Parcours des notions
 
-| Domaine | Ce que l'on y trouve | Dossier |
-| :--- | :--- | :--- |
-| 🌐 **Réseau** | Analyse de captures, protocoles et configuration réseau | [Ouvrir Network](https://github.com/alex-beze/Module_Intro_Securite_2026-2027/tree/main/CARON/Root-Me.org/Network) |
-| 🧩 **Web Server** | Requêtes HTTP, fichiers exposés et injection de commande | [Ouvrir Web Server](https://github.com/alex-beze/Module_Intro_Securite_2026-2027/tree/main/CARON/Root-Me.org/Web%20Server) |
+Chaque branche regroupe les techniques rencontrées dans les write-ups. Les fiches plus bas donnent accès au challenge et à son archive.
 
 ```mermaid
-flowchart LR
-    A["Notes et captures"] --> B["Write-up Markdown"]
-    B --> C["Archive ZIP chiffrée"]
-    C --> D["Network"]
-    C --> E["Web Server"]
-    classDef source fill:#0d1931,stroke:#00bbd4,color:#ffffff;
-    classDef archive fill:#1d1740,stroke:#9b7bff,color:#ffffff;
-    class A,B source;
-    class C,D,E archive;
+flowchart TB
+    R["Root-Me.org"] --> N["Réseau"]
+    R --> W["Web Server"]
+    N --> N1["Observer le trafic<br/>Ethernet · FTP · Telnet"]
+    N --> N2["Comprendre le réseau<br/>TTL · RIPv1"]
+    N --> N3["Lire une configuration<br/>Cisco"]
+    W --> W1["Repérer des fichiers exposés<br/>Sauvegarde · Indexation"]
+    W --> W2["Examiner les requêtes<br/>En-têtes · POST"]
+    W --> W3["Tester une entrée<br/>Injection de commande"]
+    classDef root fill:#0d1931,stroke:#ffffff,color:#ffffff;
+    classDef network fill:#073642,stroke:#00bbd4,color:#ffffff;
+    classDef web fill:#271942,stroke:#9b7bff,color:#ffffff;
+    class R root;
+    class N,N1,N2,N3 network;
+    class W,W1,W2,W3 web;
 ```
 
-<details>
-<summary><strong>🌐 Voir les 6 write-ups Réseau</strong></summary>
+## 🌐 Réseau
 
-| Challenge | Archive |
-| :--- | :--- |
-| [CISCO](https://www.root-me.org/fr/Challenges/Reseau/CISCO-mot-de-passe) | [Télécharger](Network/CARON_WU_CISCO.zip) |
-| [ETHERNET - trame](https://www.root-me.org/fr/Challenges/Reseau/ETHERNET-trame) | [Télécharger](Network/CARON_WU_ETHERNET_TRAME.zip) |
-| [FTP - Authentification](https://www.root-me.org/fr/Challenges/Reseau/FTP-Authentification) | [Télécharger](Network/CARON_WU_FTP_AUTHENTIFICATION.zip) |
-| [IP - Time To Live](https://www.root-me.org/fr/Challenges/Reseau/IP-Time-To-Live) | [Télécharger](Network/CARON_WU_IP_TIME_TO_LIVE.zip) |
-| [RIPv1 - no authentication](https://www.root-me.org/fr/Challenges/Reseau/RIPv1-no-authentication) | [Télécharger](Network/CARON_WU_RIPV1_NO_AUTHENTICATION.zip) |
-| [TELNET - authentification](https://www.root-me.org/fr/Challenges/Reseau/TELNET-authentification) | [Télécharger](Network/CARON_WU_TELNET_AUTHENTIFICATION.zip) |
+[Ouvrir le dossier Network](Network/)
 
-</details>
+> **CISCO**
+> Décoder les valeurs d'une configuration Cisco.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/CISCO-mot-de-passe) · [Write-up chiffré](Network/CARON_WU_CISCO.zip)
 
-<details>
-<summary><strong>🧩 Voir les 5 write-ups Web Server</strong></summary>
+> **ETHERNET - trame**
+> Reconstituer une requête HTTP à partir d'une trame hexadécimale.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/ETHERNET-trame) · [Write-up chiffré](Network/CARON_WU_ETHERNET_TRAME.zip)
 
-| Challenge | Archive |
-| :--- | :--- |
-| [Fichier de sauvegarde](https://www.root-me.org/fr/Challenges/Web-Serveur/Fichier-de-sauvegarde) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_FICHIER_DE_SAUVEGARDE.zip) |
-| [HTTP - Directory indexing](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_DIRECTORY_INDEXING.zip) |
-| [HTTP - Headers](https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_HEADERS.zip) |
-| [HTTP - POST](https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_HTTP_POST.zip) |
-| [PHP - Injection de commande](https://www.root-me.org/fr/Challenges/Web-Serveur/Injection-de-commande) | [Télécharger](Web%20Server/CARON_WU_WEB_SERVER_PHP_INJECTION_DE_COMMANDE.zip) |
+> **FTP - Authentification**
+> Lire un échange FTP dans Wireshark et repérer l'authentification.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/FTP-Authentification) · [Write-up chiffré](Network/CARON_WU_FTP_AUTHENTIFICATION.zip)
 
-</details>
+> **IP - Time To Live**
+> Distinguer le TTL des requêtes ICMP de celui des réponses.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/IP-Time-To-Live) · [Write-up chiffré](Network/CARON_WU_IP_TIME_TO_LIVE.zip)
+
+> **RIPv1 - no authentication**
+> Comprendre les annonces RIP et tester leur absence d'authentification.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/RIPv1-no-authentication) · [Write-up chiffré](Network/CARON_WU_RIPV1_NO_AUTHENTICATION.zip)
+
+> **TELNET - authentification**
+> Reconstituer une connexion Telnet à partir des paquets capturés.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Reseau/TELNET-authentification) · [Write-up chiffré](Network/CARON_WU_TELNET_AUTHENTIFICATION.zip)
+
+## 🧩 Web Server
+
+[Ouvrir le dossier Web Server](Web%20Server/)
+
+> **Fichier de sauvegarde**
+> Repérer un fichier de sauvegarde qui expose du code PHP.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Web-Serveur/Fichier-de-sauvegarde) · [Write-up chiffré](Web%20Server/CARON_WU_WEB_SERVER_FICHIER_DE_SAUVEGARDE.zip)
+
+> **HTTP - Directory indexing**
+> Explorer des répertoires dont l'index reste accessible.
+> [Challenge Root-Me](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing) · [Write-up chiffré](Web%20Server/CARON_WU_WEB_SERVER_HTTP_DIRECTORY_INDEXING.zip)
+
+> **HTTP - Headers**
+> Interpréter un en-tête HTTP inhabituel dans Burp.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Web-Serveur/HTTP-Headers) · [Write-up chiffré](Web%20Server/CARON_WU_WEB_SERVER_HTTP_HEADERS.zip)
+
+> **HTTP - POST**
+> Intercepter un formulaire POST et modifier la valeur envoyée.
+> [Challenge Root-Me](https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST) · [Write-up chiffré](Web%20Server/CARON_WU_WEB_SERVER_HTTP_POST.zip)
+
+> **PHP - Injection de commande**
+> Tester une injection de commande dans un formulaire de ping.
+> [Challenge Root-Me](https://www.root-me.org/fr/Challenges/Web-Serveur/Injection-de-commande) · [Write-up chiffré](Web%20Server/CARON_WU_WEB_SERVER_PHP_INJECTION_DE_COMMANDE.zip)
 
 ---
 
