@@ -8,4 +8,6 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 |HTTP - Headers |  15/10/2026 14:05 | 20 min |
 |HTTP - Directory indexing| 15/10/2026 14:54 |  25 min| 
 | HTTP - Redirection |15/10/2026 15:46 | 15 min |
+| API - Broken Access - ID | 18/11/2026 09:07 | 30 min |
+
 
