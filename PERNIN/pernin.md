@@ -36,3 +36,8 @@ Vous devez remplir le tableau ci-dessous au fur et à mesure de votre avancée :
 | Hash - Wordlist | 15/10/2026 15:33 | 15 min | 1/10 |
 | Hash - Règles | 15/10/2026 15:52 | 15 min | 2/10 |
 | API - Broken Access - MongoDB | 09/11/2026 11:46 | 1 h 15 min | 4/10 |
+| HTTP - Directory Indexing | 18/11/2026 08:48 | 1 min  | 0/10 |
+| HTTP - Be methodic | 18/11/2026 08:54 | 1 min  | 0/10 |
+| HTTP - PentaRules | 18/11/2026 09:39 | 30 min  | 2/10 |
+| API - Mass Assignment | 18/11/2026 09:58 | 10 min  | 1/10 |
+| API - Broken Access - Hash | 18/11/2026 15:00 | 30 min  | 2/10 |
